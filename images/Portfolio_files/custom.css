@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: #1589FF;
+    /* height: 300px; */
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    width: 1400px;
+    justify-content: center;
+    gap: 2%;
+    flex-wrap: wrap;
+}
+.logo{
+    width: 28%;
+}
+.menu{
+    width: 68%;
+}
